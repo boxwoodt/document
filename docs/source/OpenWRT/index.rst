@@ -8,6 +8,7 @@ OpenWRT 文档
    :caption: OpenWRT 文档
 
    基于imx6ull的OpenWrt开发.rst
+   快速上手.md
    
 
 
