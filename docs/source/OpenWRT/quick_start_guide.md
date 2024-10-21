@@ -1,6 +1,6 @@
 # 快速上手
 
-基于正点原子的imx6ull阿尔法开发板，移植OpenWRT23.05，仅支持SD卡启动。
+基于正点原子的 imx6ull 阿尔法开发板，移植 OpenWRT23.05 ，支持 SD卡 和 eMMC 启动。
 
 功能列表：
 
@@ -10,7 +10,7 @@
 
 ## 1、硬件环境
 
-正点原子阿尔法开发板。核心板V1.6，底板V2.2。4G模块使用EC20-CEHDLG，无线模块使用RTL8188EU。
+正点原子阿尔法开发板。核心板 V1.6，底板 V2.2。4G 模块使用 EC20-CEHDLG，无线模块使用 RTL8188EU。
 
 ![](https://github.com/boxwoodt/imx6ull_openwrt/blob/imx6ull_openwrt/doc/img/atk_board.jpg?raw=true)
 
@@ -55,7 +55,7 @@ make V=s > make.log 2>&1
 
 ## 4、固件烧录
 
-通过`balenaEtcher`软件，将固件烧录到SD卡中。
+通过`balenaEtcher`软件，将固件烧录到 SD 卡中。
 
 烧录软件下载地址：https://etcher.balena.io/#download-etcher
 

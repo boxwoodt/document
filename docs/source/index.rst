@@ -6,6 +6,6 @@
    :caption: boxwoodt 文档
 
    OpenWRT/index.rst
-   RT-Thread/index.rst
+   gateway/index.rst
 
 

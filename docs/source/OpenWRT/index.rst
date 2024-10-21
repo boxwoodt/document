@@ -1,14 +1,16 @@
-OpenWRT 文档
+基于 imx6ull 的 OpenWRT 开发
 ===================================
 
 .. toctree::
    :maxdepth: 2
    :titlesonly:
    :numbered:
-   :caption: OpenWRT 文档
 
-   基于imx6ull的OpenWrt开发.rst
-   快速上手.md
-   
+   quick_start_guide.md
+   burn_sd_image.md
+   burn_emmc_image.md
+   ec20_network.md
+   eth_4g_auto_switching.md
+   faq.md
 
 
