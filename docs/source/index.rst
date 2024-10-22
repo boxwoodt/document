@@ -7,5 +7,6 @@
 
    OpenWRT/index.rst
    gateway/index.rst
+   other/index.rst
 
 

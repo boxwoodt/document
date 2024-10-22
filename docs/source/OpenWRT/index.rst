@@ -1,4 +1,4 @@
-基于 imx6ull 的 OpenWRT 开发
+基于 i.MX6ULL 的 OpenWRT 开发
 ===================================
 
 .. toctree::
